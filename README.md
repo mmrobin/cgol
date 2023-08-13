@@ -15,7 +15,7 @@ This toy currently generates a random board for generation 0.
 
 Features coming soon*:
 - Pause/play and manual stepping
-- Auto-stop (either upon discovery of a looping condiition or after a specified number of generations)
+- Auto-stop (either upon discovery of a looping condition or after a specified number of generations)
 - Saving and loading board states, probably as strict binary strings (which the grid object can sort out by itself)
 - Binary mode -- replace the unicode block characters with 1s and 0s.
 - An *actual* installation (to be able to just type `$ cgol`)
