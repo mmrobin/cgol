@@ -6,6 +6,7 @@ Every cell (square) is alive xor dead at any given time (generation). The rules 
 1) Any living cell with 2 or 3 living neighbors continues to live;
 2) Any dead cell with exactly 3 living neighbors springs to life;
 3) All other cells die or remain dead.
+
 Conway's Game is a good example of the principle that simple rules often lead to complex conditions.
 It is also amusing to look at and often inspiring, which is why I built it right in the terminal (where I spend a lot of time).
 
