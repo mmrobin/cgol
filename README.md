@@ -1,5 +1,5 @@
 # cgol
-...(pronounced, and maybe later written 'seagull') is a terminal-based text-only implementation of Conway's Game of Life with periodic boundary conditions.
+...(name to be decided) is a terminal-based text-only implementation of Conway's Game of Life with periodic boundary conditions.
 
 Conway's Game of Life is a cellular automaton and zero-player game which takes place on a (usually infinite) square grid.
 Every cell (square) is alive xor dead at any given time (generation). The rules are simple:
