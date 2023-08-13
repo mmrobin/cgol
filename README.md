@@ -1,5 +1,5 @@
 # cgol
-... is a terminal-based text-only implementation of Conway's Game of Life with periodic boundary conditions.
+...is a terminal-based text-only implementation of Conway's Game of Life with periodic boundary conditions.
 
 Conway's Game of Life is a cellular automaton and zero-player game which takes place on a (usually infinite) square grid.
 Every cell (square) is alive xor dead at any given time (generation). The rules are simple:
@@ -19,4 +19,4 @@ Features coming soon*:
 - Binary mode -- replace the unicode block characters with 1s and 0s.
 - An *actual* installation (to be able to just type `$ cgol`)
 
-* "soon" is not an exact term.
+* "soon" as in, not never.
