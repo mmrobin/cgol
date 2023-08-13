@@ -18,8 +18,7 @@ import random
 import time
 import os
 
-# these defaults are mostly for running cgol.py in interactive mode
-# $ python3 -i cgol.py
+# for later: ignore dim defaults if loading a file
 xDimDefault = 24
 yDimDefault = 24
 waitDefault = 0.1
