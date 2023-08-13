@@ -20,4 +20,4 @@ Features coming soon*:
 - Binary mode -- replace the unicode block characters with 1s and 0s.
 - An *actual* installation (to be able to just type `$ cgol`)
 
-/* "soon" as in, not never.
+\* "soon" as in, not never.
