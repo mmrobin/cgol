@@ -19,5 +19,6 @@ Features coming soon*:
 - Saving and loading board states, probably as strict binary strings (which the grid object can sort out by itself)
 - Binary mode -- replace the unicode block characters with 1s and 0s.
 - An *actual* installation (to be able to just type `$ cgol`)
+- .gif and .png export features
 
  \* "soon" as in, not never.
